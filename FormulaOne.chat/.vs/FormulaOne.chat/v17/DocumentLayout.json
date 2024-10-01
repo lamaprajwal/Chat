@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\pratice\\FormulaOne.chat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B121F626-3BEE-47C6-825D-7B5F7ED4C02C}|FormulaOne.chat\\FormulaOne.chat.csproj|d:\\pratice\\formulaone.chat\\formulaone.chat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B121F626-3BEE-47C6-825D-7B5F7ED4C02C}|FormulaOne.chat\\FormulaOne.chat.csproj|solutionrelative:formulaone.chat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B121F626-3BEE-47C6-825D-7B5F7ED4C02C}|FormulaOne.chat\\FormulaOne.chat.csproj|d:\\pratice\\formulaone.chat\\formulaone.chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B121F626-3BEE-47C6-825D-7B5F7ED4C02C}|FormulaOne.chat\\FormulaOne.chat.csproj|solutionrelative:formulaone.chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B121F626-3BEE-47C6-825D-7B5F7ED4C02C}|FormulaOne.chat\\FormulaOne.chat.csproj|d:\\pratice\\formulaone.chat\\formulaone.chat\\dataservice\\shareddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B121F626-3BEE-47C6-825D-7B5F7ED4C02C}|FormulaOne.chat\\FormulaOne.chat.csproj|solutionrelative:formulaone.chat\\dataservice\\shareddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B121F626-3BEE-47C6-825D-7B5F7ED4C02C}|FormulaOne.chat\\FormulaOne.chat.csproj|d:\\pratice\\formulaone.chat\\formulaone.chat\\formulaone.chat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B121F626-3BEE-47C6-825D-7B5F7ED4C02C}|FormulaOne.chat\\FormulaOne.chat.csproj|solutionrelative:formulaone.chat\\formulaone.chat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B121F626-3BEE-47C6-825D-7B5F7ED4C02C}|FormulaOne.chat\\FormulaOne.chat.csproj|d:\\pratice\\formulaone.chat\\formulaone.chat\\models\\userconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B121F626-3BEE-47C6-825D-7B5F7ED4C02C}|FormulaOne.chat\\FormulaOne.chat.csproj|solutionrelative:formulaone.chat\\models\\userconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B121F626-3BEE-47C6-825D-7B5F7ED4C02C}|FormulaOne.chat\\FormulaOne.chat.csproj|d:\\pratice\\formulaone.chat\\formulaone.chat\\formulaone.chat.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B121F626-3BEE-47C6-825D-7B5F7ED4C02C}|FormulaOne.chat\\FormulaOne.chat.csproj|solutionrelative:formulaone.chat\\formulaone.chat.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SharedDb.cs",
+              "DocumentMoniker": "D:\\pratice\\FormulaOne.chat\\FormulaOne.chat\\DataService\\SharedDb.cs",
+              "RelativeDocumentMoniker": "FormulaOne.chat\\DataService\\SharedDb.cs",
+              "ToolTip": "D:\\pratice\\FormulaOne.chat\\FormulaOne.chat\\DataService\\SharedDb.cs",
+              "RelativeToolTip": "FormulaOne.chat\\DataService\\SharedDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T06:51:08.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormulaOne.chat.http",
+              "DocumentMoniker": "D:\\pratice\\FormulaOne.chat\\FormulaOne.chat\\FormulaOne.chat.http",
+              "RelativeDocumentMoniker": "FormulaOne.chat\\FormulaOne.chat.http",
+              "ToolTip": "D:\\pratice\\FormulaOne.chat\\FormulaOne.chat\\FormulaOne.chat.http",
+              "RelativeToolTip": "FormulaOne.chat\\FormulaOne.chat.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-28T06:47:27.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\pratice\\FormulaOne.chat\\FormulaOne.chat\\Program.cs",
+              "RelativeDocumentMoniker": "FormulaOne.chat\\Program.cs",
+              "ToolTip": "D:\\pratice\\FormulaOne.chat\\FormulaOne.chat\\Program.cs",
+              "RelativeToolTip": "FormulaOne.chat\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:44:44.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\pratice\\FormulaOne.chat\\FormulaOne.chat\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "FormulaOne.chat\\Hubs\\ChatHub.cs",
+              "ToolTip": "D:\\pratice\\FormulaOne.chat\\FormulaOne.chat\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "FormulaOne.chat\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:07:29.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserConnection.cs",
+              "DocumentMoniker": "D:\\pratice\\FormulaOne.chat\\FormulaOne.chat\\Models\\UserConnection.cs",
+              "RelativeDocumentMoniker": "FormulaOne.chat\\Models\\UserConnection.cs",
+              "ToolTip": "D:\\pratice\\FormulaOne.chat\\FormulaOne.chat\\Models\\UserConnection.cs",
+              "RelativeToolTip": "FormulaOne.chat\\Models\\UserConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:42:14.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormulaOne.chat.csproj",
+              "DocumentMoniker": "D:\\pratice\\FormulaOne.chat\\FormulaOne.chat\\FormulaOne.chat.csproj",
+              "RelativeDocumentMoniker": "FormulaOne.chat\\FormulaOne.chat.csproj",
+              "ToolTip": "D:\\pratice\\FormulaOne.chat\\FormulaOne.chat\\FormulaOne.chat.csproj",
+              "RelativeToolTip": "FormulaOne.chat\\FormulaOne.chat.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-27T10:40:28.611Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
